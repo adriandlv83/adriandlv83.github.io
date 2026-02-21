@@ -1,9 +1,0 @@
-member_casual,round_trip,rideable_type,avg_ride_length,med_ride_length,p99,tot_trips
-casual,one_way_trip,classic_bike,27.33,15.89,162,598579
-casual,one_way_trip,electric_bike,14.82,10.31,77,604842
-casual,round_trip,classic_bike,46.43,26.17,304,69367
-casual,round_trip,electric_bike,26.64,15.87,129,37398
-member,one_way_trip,classic_bike,13.35,9.12,51,1242366
-member,one_way_trip,electric_bike,10.81,8.31,44,1057345
-member,round_trip,classic_bike,25.42,18.52,117,32084
-member,round_trip,electric_bike,21.45,12.36,164,19758
