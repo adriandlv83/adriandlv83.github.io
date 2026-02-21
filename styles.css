@@ -1,0 +1,48 @@
+body {
+  background-color: #f8f9fa;
+}
+
+h1 {
+  text-align: left;
+  color: black
+}
+
+.fixed-image {
+  position: relative;
+  top: 120px;
+  right: 40px;
+  z-index: 1000;
+  width: 150px; 
+}
+
+
+p {
+  text-align: justify;
+
+}
+
+ul, li {
+  text-align: left;
+}
+
+
+
+.sidebar nav[role="doc-toc"] .nav-link {
+  color: #495057;
+}
+
+.sidebar nav[role="doc-toc"] .nav-link:hover {
+  background-color: #f1f3f5 !important;
+  color: #495057 !important;
+}
+
+.sidebar nav[role="doc-toc"] .nav-link.active {
+  background-color:  transparent  !important;
+  color: #495057 !important;
+  border-left: 3px solid #495057;
+  font-weight: 600;
+}
+
+nav[role="doc-toc"] ul ul {
+  display: block !important;
+}

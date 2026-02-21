@@ -1,0 +1,5 @@
+member_casual,rideable_type,avg_ride_length,med_ride_length,p90_ride_length,p99_ride_length
+casual,classic_bike,29.47,16.28,58.58,1156.48
+casual,electric_bike,14.9,10.24,30.07,144.21
+member,classic_bike,13.68,9.21,27.27,323.2
+member,electric_bike,11.35,8.5,21.41,168.08

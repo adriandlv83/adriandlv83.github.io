@@ -1,0 +1,40 @@
+---
+title: "Experiencia"
+toc: false 
+toc-location: right 
+toc-expand: false
+toc-depth: 2
+---
+
+
+## Coordinador Desarrollo CIV
+### Grupo Formex 
+
+- Reduje un **25%** el tiempo de procesamiento y un **20%** los errores en generación documental tras optimizar flujos y estructuras de datos en EngageOne e Inspire Designer.
+
+- Automaticé workflows de preparación y salida de datos mediante scripts y flujos de transformación, garantizando estabilidad en procesos de alto volumen para clientes como **Scotiabank, IDEMIA, HSBC y Banorte.**
+
+- Estandaricé entornos de procesamiento de datos mediante la homologación de rutas y definición de mejores prácticas en versionado, pruebas y respaldos, reduciendo riesgos operativos.
+
+- Coordiné la operación de procesamiento de pólizas de AXA Seguros, optimizando la eficiencia operativa, la resolución de incidencias y el cumplimiento de los niveles de servicio. 
+
+## Ingeniero Desarrollo CIV
+### Grupo Formex
+ 
+- Desarrollé y migré soluciones de generación documental masiva en Doc1 e Inspire Designer, garantizando la integridad de datos para clientes clave como **Axa, Scotiabank y Afore Coppel.**
+
+- Implementé soluciones compatibles entre distintas plataformas, estandarizando estructuras de datos de entrada, logrando una reducción en tiempos de implementación y proceso.
+
+- Estabilicé la generación de archivos PDF, AFP y PostScript mediante el ajuste de templates y la implementación de check-lists de validación, disminuyendo significativamente los rechazos en producción.
+
+
+## Programador y Diseñador Doc1
+### Indra
+
+- Desarrollé estados de cuenta personalizados en Doc1 para BBVA y Banamex, gestionando desde la lógica de negocio hasta la carga en producción sin errores, mediante protocolos de validación rigurosos.
+
+
+## Procesador de Datos
+### Azertia Tecnologías de la Información
+
+- Automatización de scripts de procesamiento masivo de datos para Estados de cuenta Santander, detección de datos corruptos mediante validación de logs reduciendo reprocesos en clientes como BBVA, Movistar.

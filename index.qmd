@@ -1,0 +1,48 @@
+---
+title: "Adrian de la Vega"
+subtitle: "CCM & Data-Driven Business Specialist"
+about:
+  template: jolla
+  image: images/Cavega_linkdin.jpeg
+  image-width: 200px
+  
+---
+
+
+Desarrollo flujos de extracción, carga y procesamiento de datos para generación documental masiva y transformo datos en soluciones que generan valor real para el negocio.
+
+---
+
+### Propuesta de valor
+  
+Integro mi experiencia en el desarrollo de CCM (Gestión de Comunicaciones con el Cliente) y procesamiento de información con análisis de datos orientado a negocio para identificar patrones de comportamiento, generar insights accionables y apoyar decisiones estratégicas basadas en datos.
+
+---
+
+Amplia experiencia en procesamiento de datos de alto volumen, automatización de flujos, integración de reglas de negocio y cumplimiento de SLA, priorizando la precisión, automatización y el impacto financiero. He colaborado con equipos técnicos y áreas de negocio, TI y clientes en proyectos tecnológicos empresariales.
+
+---
+
+## Proyectos de análisis
+
+### Bike-Share - Análisis de más de 5 millones de viajes
+
+Análisis de comportamiento de usuarios para identificar patrones de movilidad y proponer estrategias de conversión basadas en datos.
+
+[Ver proyecto completo](projects/cyclistic/cyclistic.html)
+
+---
+
+## Áreas de Especialización
+
+- Customer Communications Management (Doc1, Inspire, EngageOne)
+- Procesamiento masivo de datos y automatización (batch, bash, workflows)
+- Análisis de datos aplicado a negocio
+- Transformación de datos (R, SQL)
+- Visualización y reporting (Tableau, Power BI)
+
+---
+
+## Contacto
+
+[LinkedIn](https://www.linkedin.com/in/adrian-vega-756b3b108)
