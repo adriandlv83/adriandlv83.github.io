@@ -33,7 +33,7 @@ Se proporcionan resúmenes procesados necesarios para reproducir los resultados 
 
 ## Sitio web del proyecto
 
-https://adriandlv83.github.io/TU_REPO/
+https://github.com/adriandlv83/adriandlv83.github.io/
 
 ## Autor
 
