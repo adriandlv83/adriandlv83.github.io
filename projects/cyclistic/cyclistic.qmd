@@ -80,7 +80,7 @@ summary_routes_uni <- read_csv(
 knitr::opts_chunk$set(include = TRUE, warning = FALSE, message = FALSE)
 ```
 
-![](../../images/Cyclistic.jpg){.fixed-image fig-align="right"}
+![](../../images/Cyclistic.jpg)
 
 ## Análisis de comportamiento de usuarios
 
@@ -156,8 +156,8 @@ En el proyecto completo se unificaron 12 archivos mensuales y se aplico un pipel
 #### Datos del proceso.
 
 -   La carga de registros iniciales `r scales::comma(rows_loaded)`.\
--   Exclusión de registros tras proceso de limpieza `r scales::comma(rows_deleted)`, lo que representa un `r comma(pct_deleted)` de los registros.\
--   Registros totales del conjunto para análisis `r scales::comma(rows_clean)`
+-   Exclusión de registros tras proceso de limpieza `r scales::comma(rows_deleted)`, lo que representa un `r comma(pct_deleted)`% de los registros.\
+-   Registros totales del conjunto para análisis `r scales::comma(rows_clean)`.
 
 Las variables temporales **started_at y ended_at** fueron estandarizadas durante la ingesta (ymd_hms), asegurando consistencia entre archivos.
 

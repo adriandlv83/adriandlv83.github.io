@@ -8,7 +8,7 @@ h1 {
 }
 
 .fixed-image {
-  position: relative;
+  position: top;
   top: 120px;
   right: 40px;
   z-index: 1000;
@@ -45,4 +45,6 @@ ul, li {
 
 nav[role="doc-toc"] ul ul {
   display: block !important;
+
 }
+
