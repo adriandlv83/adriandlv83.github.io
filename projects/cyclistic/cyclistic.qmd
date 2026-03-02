@@ -161,7 +161,7 @@ En el proyecto completo se unificaron 12 archivos mensuales y se aplico un pipel
 
 Las variables temporales **started_at y ended_at** fueron estandarizadas durante la ingesta (ymd_hms), asegurando consistencia entre archivos.
 
-El pipeline completo puede consultarse en el script **build_case_cyclistic.R**
+El pipeline completo puede consultarse en el script  [build_case_cyclistic.R](/scripts/build_case_cyclistic.R).
 
 ```{r}
 #| label: process-clean-fragme

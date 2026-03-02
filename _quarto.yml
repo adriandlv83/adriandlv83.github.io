@@ -2,6 +2,9 @@ project:
   type: website
   output-dir: docs
 
+resources: 
+  -scripts/
+
 website:
   title: "CCM & Data-Driven Business Specialist"
   navbar:

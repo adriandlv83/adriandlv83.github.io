@@ -12,19 +12,19 @@ El objetivo estratégico es comprender las diferencias entre tipos de usuario ca
 
 El proyecto sigue un flujo completo de análisis de datos:
 
-- Preparación y limpieza de datos
-- Transformación y métricas
-- Análisis exploratorio
-- Identificación de insights
-- Recomendaciones estratégicas
+* Preparación y limpieza de datos
+* Transformación y métricas
+* Análisis exploratorio
+* Identificación de insights
+* Recomendaciones estratégicas
 
-##️# Tecnologías utilizadas
+\##️# Tecnologías utilizadas
 
-- R
-- tidyverse
-- ggplot2
-- Quarto Website
-- GitHub Pages
+* R
+* tidyverse
+* ggplot2
+* Quarto Website
+* GitHub Pages
 
 ### Datos
 
@@ -33,8 +33,9 @@ Se proporcionan resúmenes procesados necesarios para reproducir los resultados 
 
 ## Sitio web del proyecto
 
-https://github.com/adriandlv83/adriandlv83.github.io/
+https://adriandlv83.github.io/projects/cyclistic/cyclistic.html
 
 ## Autor
 
 Carlos Adrian de la Vega Guevara
+

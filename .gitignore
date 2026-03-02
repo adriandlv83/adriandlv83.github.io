@@ -13,11 +13,9 @@ _site/
 renv/library/
 
 # Datos crudos y script
-scripts/
 data/raw/
 
 # Archivos de sistema
 .DS_Store
 Thumbs.db
-
 /.quarto/
